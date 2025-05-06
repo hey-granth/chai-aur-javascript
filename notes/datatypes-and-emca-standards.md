@@ -18,3 +18,24 @@
   - `null`: Represents the intentional absence of any object value.
   - `bigint`: Represents integers with arbitrary precision. Example: `1234567890123456789012345678901234567890n`
   - `symbol`: Represents a unique and immutable value, often used as object property keys.
+
+---
+## Primitive Datatypes
+- Primitive data types are immutable, meaning their values cannot be changed once created. However, you can create a new value based on the original.
+- When you assign a primitive value to a variable, JavaScript creates a copy of that value. This means that if you change the value of one variable, it does not affect the other variable.
+- 7 types
+  - `String`
+  - `Number`
+  - `Boolean`
+  - `undefined`
+  - `null`
+  - `Bigint`
+  - `Symbol`
+---
+## Non-Primitive Datatypes (Reference Datatypes)
+- Non-primitive data types are mutable, meaning their values can be changed after creation. They are stored as references in memory.
+- When you assign a non-primitive value to a variable, JavaScript creates a reference to that value. This means that if you change the value of one variable, it will affect all other variables that reference the same value.
+- Non-primitive data types include:
+  - `Object`: A collection of key-value pairs. Example: `{ name: "John", age: 30 }`
+  - `Array`: A special type of object used to store ordered collections of values. Example: `[1, 2, 3]`
+  - `Function`: A special type of object that can be called to execute code. Functions are first-class citizens in JavaScript.
