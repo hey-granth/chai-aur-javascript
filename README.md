@@ -14,6 +14,7 @@ The code snippets are organized into different files based on the topic or conce
 4. [Operators](notes/operators.md)
 5. [Resources](notes/resources.md)
 6. [Comparison Operators](notes/comparison.md)
+7. [Stack and Heap](notes/stack-and-heap.md)
 
 ---
 ## Code Snippet Index
