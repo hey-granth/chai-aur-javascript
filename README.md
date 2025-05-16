@@ -12,9 +12,10 @@ The code snippets are organized into different files based on the topic or conce
 2. [Datatypes](notes/datatypes-and-emca-standards.md)
 3. [Datatype Conversion](notes/datatype-conversion.md)
 4. [Operators](notes/operators.md)
-5. [Resources](notes/resources.md)
+5. [Resources](resources.md)
 6. [Comparison Operators](notes/comparison.md)
 7. [Stack and Heap](notes/stack-and-heap.md)
+8. [Strings](notes/strings.md)
 
 ---
 ## Code Snippet Index
@@ -23,5 +24,5 @@ The code snippets are organized into different files based on the topic or conce
 3. [Datatype Conversion](code-files/datatype-conversion.js)
 4. [Operators](code-files/operations.js)
 5. [Comparison Operators](code-files/comparison.js)
-
+6. [Strings](code-files/strings.js)
 ---
